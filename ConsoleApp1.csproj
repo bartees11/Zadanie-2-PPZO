@@ -10,6 +10,7 @@
   <ItemGroup>
     <!-- Exclude duplicate file that defines the same Program class -->
     <Compile Remove="zad 1.cs" />
+    <Compile Remove="Program.cs" />
   </ItemGroup>
 
 </Project>
